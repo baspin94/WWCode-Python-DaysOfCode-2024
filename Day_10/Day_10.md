@@ -1,2 +1,0 @@
-# Today's Challenge
-Write a program to remove duplicates from a list.
